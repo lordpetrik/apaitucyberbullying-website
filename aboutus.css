@@ -1,0 +1,9 @@
+.atas {
+    border: 3px solid rgb(0, 255, 234); 
+    background-color: rgb(23, 151, 160);
+    text-align: center;
+     border-radius: 10px;
+     margin: 50px;
+     display: flex;
+
+}
