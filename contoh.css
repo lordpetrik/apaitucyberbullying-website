@@ -1,0 +1,47 @@
+*,
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+:root{
+    --main-bg: #ffffff;
+    --sec-bg:#f3e6ae;
+}
+
+
+
+.container {
+
+    background-color: var(--main-bg);
+    min-height: 100vh;
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--sec-bg);
+    width: 100%;
+    height: auto;
+
+}
+
+.card{
+    border: 3px solid rgb(0, 238, 255);
+    border-radius: 10px;
+    background-color: #99c1fd;
+}
+
+.text {
+    text-align: center;
+}
+
+
+@media screen and(max-width: 476px) {}
+
+p {
+    color: white;
+}
