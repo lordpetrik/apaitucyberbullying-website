@@ -49,3 +49,12 @@ opacity:1;
 p {
     color: white;
 }
+
+.bot{
+    display: flex;
+    justify-content: space-between ;
+    border: 5px double black;
+    background-color: aqua;
+    border-radius: 10px;
+
+}
