@@ -14,3 +14,12 @@
     background-color: gold;
     color: rgb(199, 199, 7);
 }
+
+.bot{
+    display: flex;
+    justify-content: space-between ;
+    border: 5px double black;
+    background-color: aqua;
+    border-radius: 10px;
+    margin-top: 100px;
+}
